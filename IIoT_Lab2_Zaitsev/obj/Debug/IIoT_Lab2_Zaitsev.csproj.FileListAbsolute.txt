@@ -1,0 +1,14 @@
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\bin\Debug\IIoT_Lab2_Zaitsev.exe.config
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\bin\Debug\IIoT_Lab2_Zaitsev.exe
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\bin\Debug\IIoT_Lab2_Zaitsev.pdb
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\bin\Debug\Interop.S7PROSIMLib.dll
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.csproj.AssemblyReference.cache
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.csproj.SuggestedBindingRedirects.cache
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\Interop.S7PROSIMLib.dll
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.csproj.ResolveComReference.cache
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.Form1.resources
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.Properties.Resources.resources
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.csproj.GenerateResource.cache
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.csproj.CoreCompileInputs.cache
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.exe
+C:\Users\ihusk\source\repos\IIoT_Lab2_Zaitsev\IIoT_Lab2_Zaitsev\obj\Debug\IIoT_Lab2_Zaitsev.pdb
